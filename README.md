@@ -1,8 +1,10 @@
 # Frontend Mentor - E-commerce product page solution
 
 A simple E-commerce product page. I built this page with tailwindcss html and Javascript.
+
 I wanted to see how the cart functionality works  in ecommerce sites, that's why i decided to build.
-I plan on building an ecommerce site soon, So i figured this would be good practicce.
+
+I plan on building an ecommerce site soon, So i figured this would be good practice.
 
 ## Table of contents
 
@@ -17,7 +19,7 @@ I plan on building an ecommerce site soon, So i figured this would be good pract
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -39,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://nathan-somto.github.io/E-Commerce-Product-Page/)
 
 ## My process
 
@@ -49,12 +51,13 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [tailwind css](https://reactjs.org/) - css framework
+- [tailwind css](https://tailwindcss.com/docs/installation) - css framework
 
 
 ### What I learned
 
 I learnt how the cart functionality works in modern ecommerce sites.
+
 I learnt how to implement a light box using vanilla javascript
 
 To see how you can add code snippets, see below:
@@ -77,16 +80,15 @@ const proudOfThisFunc = () => {
 
 With what i have learnt i plan on creating an ecommerce site with next js
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
 
 
 
 ## Author
 
-- Github - [Nathan_Somto](https://#)
+- Github - [Nathan_Somto](https://github.com/Nathan-Somto/)
 -Twitter- [Nathan_Somto](https://#)
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
