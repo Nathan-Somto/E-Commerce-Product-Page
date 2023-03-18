@@ -87,7 +87,7 @@ With what i have learnt i plan on creating an ecommerce site with next js
 ## Author
 
 - Github - [Nathan_Somto](https://github.com/Nathan-Somto/)
--Twitter- [Nathan_Somto](https://#)
+- Twitter- [Nathan_Somto](https://#)
 
 
 
